@@ -98,7 +98,7 @@ I’m always open to connecting with like-minded individuals and exploring oppor
 
 ### 📌 Thank You for Visiting!  
 
-Feel free to explore my repositories and projects. If you find something interesting or useful, don’t forget to ⭐ the repository. Let’s build something amazing together!  
+Feel free to explore my repositories and projects. If you find something interesting or useful, don’t forget to ⭐ the repository.  
 
 --- 
 
