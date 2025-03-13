@@ -84,7 +84,7 @@ I’m always open to connecting with like-minded individuals and exploring oppor
 <!--- - 🌐 **Portfolio**: [Your Portfolio Link](#)  --->
 - 💼 **LinkedIn**: [linkedin.com/in/gautam-govind-b92036256](https://www.linkedin.com/in/gautam-govind-b92036256)  
 - 🐦 **Twitter**: [twitter.com/gautamgovind448](https://x.com/GautamGovind448?t=Qo5JHUg2vC3Yzi5OlZt74A&s=09)  
-- 📧 **Email**: [gautamgovind448@gmail.com](gautamgovind448@gmail.com)  
+- 📧 **Email**: [gautamgovind448@gmail.com](mailTo:gautamgovind448@gmail.com)  
 
 ---
 
