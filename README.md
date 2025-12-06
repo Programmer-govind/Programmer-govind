@@ -1,108 +1,105 @@
-# 🌟 Gautam Govind  
-
-**_Java Fullstack Developer | AWS Cloud Enthusiast | DevOps Practitioner_**  
-
-Hi there! 👋 Welcome to my GitHub profile!  
-I am an ambitious and passionate developer specializing in **Java Fullstack Development** with a strong foundation in **Spring Boot**, **React**, **Angular**, and a keen interest in **Cloud Computing** and **DevOps practices**. My aim is to create impactful and scalable software solutions that add real value to businesses and individuals.  
+<h1 align="center">Hi 👋, I'm Gautam Govind</h1>
+<h3 align="center">Java FullStack Developer | Spring Boot Teacher | CEO & Founder - OrdersFree.com</h3>
 
 ---
 
-## 🛠️ Technical Skills  
-
-### **Programming Languages**  
-- Java (Core & Advanced)  
-- Python  
-- JavaScript (ES6+)  
-
-### **Frameworks & Technologies**  
-- Spring Boot  
-- React | Angular  
-- Hibernate | JPA  
-- Thymeleaf  
-
-### **Cloud & DevOps**  
-- AWS Cloud (EC2, S3, RDS, Lambda)  
-- Docker | Kubernetes  
-- CI/CD Pipelines with Jenkins  
-
-### **Databases**  
-- MySQL | PostgreSQL  
-- MongoDB  
-
-### **Other Tools**  
-- Git & GitHub  
-- Maven | Gradle  
-- IntelliJ IDEA | Visual Studio Code | Spring Tool Suite
+## 💫 About Me  
+- 🎓 BTech CSE (3rd Year)  
+- 💼 Aspiring **Java Spring Boot FullStack Developer**  
+- 🚀 CEO & Founder – **OrdersFree.com**  
+- 🧑‍🏫 I teach **Spring Boot** to students online  
+- 🏆 Built a **Drone Project** that won prizes & certificates from **IIT Patna**  
+- 💡 Passionate about **Backend Development, Cloud, Microservices, and Scalable Systems**  
+- 🎯 Preparing for **Java Developer Internship / FullStack Role**  
+- 📬 Contact Me: **gautamgovind448@gmail.com**
 
 ---
 
-## ✨ Achievements  
-
-- **Winner** of the **Drone Innovation Challenge** organized by IIT Patna, where my team developed a fully functional drone project.  
-- **Finalist** in **INNOVERSE 2K24**, presenting a cutting-edge idea titled **AgroInnovate**, aimed at revolutionizing the agriculture industry through technology.  
-- Recognized for my contributions to **Unstop AtomQuest 2024**, showcasing my problem-solving and innovative thinking.  
-- Successfully developed and deployed a blog application using **Spring Boot** and **Thymeleaf**, incorporating dynamic content rendering and robust security mechanisms.  
-
----
-
-## 📚 Education  
-
-- **B.Tech in Computer Science Engineering**   
-  🌟 Passionate learner actively upskilling in **Fullstack Development** and **Data Structures & Algorithms (DSA)**.  
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-govind-b92036256) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/friend_448)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gautamgovind448)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@TechTrends448)
+[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21368483/gautam-govind)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1BXDx7oqe5/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/RzTwkcxp)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gautamgovind448@gmail.com)
 
 ---
 
-## 🌟 What I Offer  
+# 💻 Tech Stack  
+### **Backend**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-1. Expertise in **building fullstack applications** that are scalable, maintainable, and performance-oriented.  
-2. **Hands-on experience** with cloud services like **AWS** and modern **DevOps tools** to streamline development and deployment.  
-3. A proactive approach to **team leadership**, **collaboration**, and delivering impactful results under pressure.  
-4. A constant drive for **innovation** and **self-improvement**, with a passion for solving real-world problems.  
+### **Frontend**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
----
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## 📂 Featured Projects  
+### **Databases**
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### **1. Blog Application**  
-A feature-rich blogging platform where users can create, manage, and explore blogs with a responsive and user-friendly UI.  
-- **Tech Stack**: Spring Boot, Thymeleaf, MySQL, Docker   
-
-### **2. Drone Innovation Project**  
-Developed a fully functional drone that demonstrated technical precision and problem-solving capabilities.  
-- **Achievement**: Winner at IIT Patna  
-
-### **3. AgroInnovate**  
-A project aimed at empowering the agriculture industry with innovative tech-driven solutions.  
-- **Achievement**: Finalist at INNOVERSE 2K24  
-
----
-
-## 🤝 Let's Connect  
-
-I’m always open to connecting with like-minded individuals and exploring opportunities to collaborate or contribute to impactful projects. Feel free to reach out!  
-
-<!--- - 🌐 **Portfolio**: [Your Portfolio Link](#)  --->
-- 💼 **LinkedIn**: [linkedin.com/in/gautam-govind-b92036256](https://www.linkedin.com/in/gautam-govind-b92036256)  
-- 🐦 **Twitter**: [twitter.com/gautamgovind448](https://x.com/GautamGovind448?t=Qo5JHUg2vC3Yzi5OlZt74A&s=09)  
-- 📧 **Email**: [gautamgovind448@gmail.com](mailTo:gautamgovind448@gmail.com)  
+### **Tools**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🔥 Fun Facts  
+## 🚀 Featured Projects  
+### 🔹 OrdersFree.com – *Founder & CEO*  
+A smart ordering system designed for students and small businesses.  
 
-- I enjoy **mentoring and teaching** aspiring developers, ensuring they understand complex topics with ease.  
-- My mantra: **Success lies in the success of others.**  
-- Solving programming challenges and puzzles gives me immense satisfaction and keeps me motivated.  
+### 🔹 Drone Project (Award-winning)  
+- Developed an autonomous drone with innovative control logic  
+- Won **prizes from IIT Patna**  
+
+### 🔹 Java + Spring Boot Real Projects  
+- REST APIs, Authentication, JWT, CRUD Apps  
+- Microservices practice (Kafka + Docker)  
+
+*(Aap chaho toh main Projects section ko aur zyada attractive bana kar cards-style me bhi design kar sakta hoon.)*
 
 ---
 
-### 📌 Thank You for Visiting!  
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Programmer-govind&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Programmer-govind&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-govind&theme=dark&hide_border=false&layout=compact)
 
-Feel free to explore my repositories and projects. If you find something interesting or useful, don’t forget to ⭐ the repository.  
+---
 
---- 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Programmer-govind&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!---
-Programmer-govind/Programmer-govind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### ✍️ Random Dev Quote  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🔝 Top Contributed Repo  
+![](https://github-contributor-stats.vercel.app/api?username=Programmer-govind&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 💰 Support My Work  
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/GautamGovind448)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=Programmer-govind&icon=0&color=0)
