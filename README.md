@@ -13,16 +13,6 @@ I am a B.Tech (CSE) student and a backend-first Java Full-Stack engineer with pr
 
 ---
 
-## Publicly verifiable information about OrdersFree
-> The following points summarize public information found on the OrdersFree website and public listings:
-- OrdersFree is presented as a shopping/price comparison platform that aggregates prices across marketplaces (for example: Amazon, Flipkart, BigBasket) to help users find the best deals.   
-- The public site references features such as price comparison, daily deals, and premium/rewards programs.   
-- Public contact/support details listed include `support@ordersfree.com`, a phone number and a location reference (Bihar, India). 
-
-> Note: The above three lines reflect information published on OrdersFree’s public pages. If you want, I can run a deeper verification (WHOIS, LinkedIn company page, registrar details, or business registry checks).
-
----
-
 ## OrdersFree — Product Description & Vision (my role & roadmap)
 **Short elevator pitch:** OrdersFree is an intelligent shopping companion that consolidates marketplace prices, highlights genuine deals, and notifies users when favourable price movements occur — reducing time and money spent on price discovery.
 
