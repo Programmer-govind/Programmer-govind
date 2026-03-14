@@ -17,8 +17,6 @@ I am a B.Tech (CSE) student and a backend-first Java Full-Stack engineer with pr
 
 Hookmetry is a developer focused SaaS platform designed to help developers debug, monitor,
 and analyze webhook integrations used in modern APIs and applications.
-Webhooks are widely used by platforms like Stripe, GitHub, Slack, Shopify, and many other APIs to
-send real time events.
 
 ---
 
