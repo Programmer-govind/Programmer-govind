@@ -15,6 +15,13 @@ I am a B.Tech (CSE) student and a backend-first Java Full-Stack engineer with pr
 
 ## Building Hookmetry  Webhook Debugging & Telemetry Platform (https://hookmetry.com)
 
+Hookmetry is a developer focused SaaS platform designed to help developers debug, monitor,
+and analyze webhook integrations used in modern APIs and applications.
+Webhooks are widely used by platforms like Stripe, GitHub, Slack, Shopify, and many other APIs to
+send real time events.
+
+---
+
 ## OrdersFree — Product Description & Vision (my role & roadmap)
 **Short elevator pitch:** OrdersFree is an intelligent shopping companion that consolidates marketplace prices, highlights genuine deals, and notifies users when favourable price movements occur — reducing time and money spent on price discovery.
 
